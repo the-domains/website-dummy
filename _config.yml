@@ -1,0 +1,14 @@
+layout_spectrum: 0.8515102318488061
+typography_spectrum: 0.6115526903886348
+color:
+  brandStrength: 0.3319768358487636
+  lightness: 0.5912289125844836
+  saturation: 0.7345838372129947
+  rhythmicContrast: 0.5204058641102165
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+name: 'Website dummy '
